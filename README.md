@@ -7,10 +7,14 @@ Começamos explorando o que é orientação a objeto e os diferentes paradigmas 
 
 Desenvolver um site responsivo completo para uma empresa do ramo de cosméticos, com foco na criação de um layout flexível que se adapte a dispositivos móveis e desktop. Ao finalizar este projeto, você terá praticado HTML e CSS, aprendendo a estruturar páginas da web, criar um cabeçalho, rodapé e utilizar variáveis CSS para facilitar a manutenção do design.
 
+## Link para visualizar: https://andreiadev88.github.io/projeto-pratico-desenvolve/ 
+
 
 ## Tecnologias utilizadas
 
 * HTML
 * CSS
 * SWIPER
+
+
 
